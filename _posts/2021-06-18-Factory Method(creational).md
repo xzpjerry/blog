@@ -1,3 +1,9 @@
+--------
+layout: post
+published: true
+tags: design_pattern creational
+--------
+
 - a factory produces different products according to its input request.
 
 
