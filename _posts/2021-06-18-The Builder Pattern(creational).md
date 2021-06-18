@@ -1,5 +1,3 @@
-# The Builder Pattern
-
 ![Lots of subclasses create another problem](https://refactoring.guru/images/patterns/diagrams/builder/problem1.png)
 
 ![Applying the Builder pattern](https://refactoring.guru/images/patterns/diagrams/builder/solution1.png)
