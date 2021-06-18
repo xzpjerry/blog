@@ -1,9 +1,3 @@
-
-
-# Decorator Pattern
-
-
-
 - Dynamically adding behaviors to exist objects
 - Aggregation(Containing old objects)
 
