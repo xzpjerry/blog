@@ -1,5 +1,3 @@
-# Factory Method 2
-
 - a better implementation that scales
 
 ```python
