@@ -1,7 +1,10 @@
 ---
 layout: post
 published: true
-tags: casual
+tags:
+- casual
+- tmux
+- iterm
 ---
 
 For some reason, when entering tmux from iterm, the $PATH was somehow reset which leads to mismatching of Conda's Python from the system's one.

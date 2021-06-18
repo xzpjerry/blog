@@ -1,7 +1,9 @@
 ---
 layout: post
 published: true
-tags: design_pattern structual
+tags:
+- design_pattern
+- structual
 ---
 
 ![The structure of the app before integration with the analytics library](https://refactoring.guru/images/patterns/diagrams/adapter/problem-en.png)

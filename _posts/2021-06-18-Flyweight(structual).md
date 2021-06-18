@@ -1,7 +1,9 @@
 ---
 layout: post
 published: true
-tags: design_pattern structual
+tags:
+- design_pattern
+- structual
 ---
 
 - minimizing mem usage by data sharing between **similar** objects
