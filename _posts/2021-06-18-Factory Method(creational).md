@@ -1,7 +1,3 @@
-# Factory Method
-
-
-
 - a factory produces different products according to its input request.
 
 
