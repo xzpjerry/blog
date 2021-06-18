@@ -1,5 +1,3 @@
-# Flyweight
-
 - minimizing mem usage by data sharing between **similar** objects
 
 ```python
