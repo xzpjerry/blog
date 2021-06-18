@@ -1,8 +1,8 @@
---------
+---
 layout: post
 published: true
 tags: design_pattern structual
---------
+---
 
 - Dynamically adding behaviors to exist objects
 - Aggregation(Containing old objects)

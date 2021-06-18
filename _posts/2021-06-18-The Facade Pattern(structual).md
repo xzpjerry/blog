@@ -1,8 +1,8 @@
---------
+---
 layout: post
 published: true
 tags: design_pattern structual
---------
+---
 
 ![Facade Design Pattern Sequence Diagram](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Facade_Design_Pattern_Sequence_Diagram_UML.svg/350px-Facade_Design_Pattern_Sequence_Diagram_UML.svg.png)
 

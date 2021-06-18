@@ -1,8 +1,8 @@
---------
+---
 layout: post
 published: true
 tags: design_pattern creational
---------
+---
 
 ![Lots of subclasses create another problem](https://refactoring.guru/images/patterns/diagrams/builder/problem1.png)
 

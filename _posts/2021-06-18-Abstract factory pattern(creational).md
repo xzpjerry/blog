@@ -1,8 +1,8 @@
---------
+---
 layout: post
 published: true
 tags: design_pattern creational
---------
+---
 
 ![Class diagram example The method createButton on the GUIFactory interface returns objects of type Button. What implementation of Button is returned depends on which implementation of GUIFactory is handling the method call.](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Abstract_factory.svg/1024px-Abstract_factory.svg.png)
 

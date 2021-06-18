@@ -1,8 +1,8 @@
---------
+---
 layout: post
 published: true
 tags: design_pattern
---------
+---
 
 creational: concerning how to instantiate an object
 	e.g. factory, singleton
