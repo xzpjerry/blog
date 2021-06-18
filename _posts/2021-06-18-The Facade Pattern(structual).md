@@ -1,5 +1,3 @@
-# The Facade Pattern: An Interface to Subsystems
-
 ![Facade Design Pattern Sequence Diagram](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Facade_Design_Pattern_Sequence_Diagram_UML.svg/350px-Facade_Design_Pattern_Sequence_Diagram_UML.svg.png)
 
 - Facade is like a deputy, managing its complex sub-systems while exposing an entry point to users.
