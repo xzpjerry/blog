@@ -87,3 +87,10 @@ session.query(Page).first().tags
 
 
 
+
+
+## Reference
+
+- [Relationship Loading Techniques](https://docs.sqlalchemy.org/en/14/orm/loading_relationships.html#subquery-eager-loading)
+- [SQLAlchemy’s “Lazy” Parameter](https://medium.com/@ns2586/sqlalchemys-relationship-and-lazy-parameter-4a553257d9ef)
+
